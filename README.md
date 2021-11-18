@@ -1,1 +1,1 @@
-# eda_session
+# Session on Exploratory Data Analysis (EDA)
